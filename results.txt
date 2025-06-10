@@ -1,0 +1,27 @@
+Unemployment Analysis Summary
+
+1. The analysis of U.S. unemployment data from January 1948 to April 2025 reveals that the overall average monthly unemployment rate during this period is 5.68%.
+
+2. This period includes major economic shocks such as the 2008 financial crisis and the COVID-19 pandemic.
+
+   - During the 2008 crisis, unemployment rose sharply, averaging 6.7% during the crisis window. Rates increased from 4.9% in December 2007 to 9.5% in June 2009, a rise of 4.6 percentage points. It peaked in October 2009 at 10.0% and took roughly five years to return to pre-crisis levels.
+   - Many companies lacked the resources to sustain their workforce, leading to widespread layoffs as a means of keeping operations afloat.
+   - Such crises highlight the importance of resource efficiency. Non-essential investments are often paused, and funding is redirected toward critical operations to keep businesses running. Pricing models also need adjustment to remain consumer-friendly and responsive to lower demand.
+   - Although one might expect COVID-19 to have had a severe long-term impact on the labor market, the data suggests otherwise.
+   - The initial impact was sharp, with unemployment spiking to 14.8% in April 2020, just a month after the pandemic was declared.
+     However, year-over-year averages show a steady recovery:
+
+     March 2020 to March 2021: 8.37%
+     March 2021 to March 2022: 4.86%
+     March 2022 to March 2023: 3.58%
+
+   This recovery may be attributed to adaptation to remote work. Companies that invested in digital infrastructure were able to maintain operations and stabilize faster.
+
+3. A noteworthy insight is that the 1990s, following the volatility of the 1980s (Great Depression), had the most stable labor market, with a standard deviation of 1.05%. Periods like this are ideal for market expansion, launching new products and services, and workforce investments.
+
+4. The rolling 10-year average from April 2015 to April 2025 indicates a stable labor market, with an average unemployment rate of 4.64%, lower than the long-term average even with the pandemic included.
+
+5. The lowest unemployment rate in the data was 2.5%, observed in May and June 1953. The highest rate was 14.8%, recorded in April 2020 during the early months of the COVID-19 pandemic.
+
+6. At the decade level, the 1950s had the lowest average unemployment rate at 4.51%, while the 1980s had the highest at 7.27%, reflecting the inflationary and economic challenges of that era.
+
