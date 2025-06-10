@@ -20,7 +20,7 @@ Shell commands to setup the virtual enviornment
 - Open a jupyter notebook and select the virtual enviornment setup previously
 - Run each cell in the unemployment_analysis.ipynb file
 
-# Key findings from your analysis
+# Key findings from analysis
 
 - From 1948 to 2025, the average monthly U.S. unemployment rate was 5.68%, with periods of stability disrupted by major economic crises like the 2008 financial crash and the COVID-19 pandemic.
 - Unemployment spiked to 14.8% in April 2020, but the labor market recovered rapidly over the following three years highlighting the role of digital adaptation and remote work in economic resilience.
