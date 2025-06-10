@@ -29,10 +29,10 @@ Shell commands to setup the virtual enviornment
 # Data source attribution
 
 The dataset was obtained from the Federal Reserve Bank of St. Louis (FRED):
- **Dataset Name:** UNRATE – Civilian Unemployment Rate, Seasonally Adjusted
- **Source URL:** https://fred.stlouisfed.org/series/UNRATE
- **Publisher:** U.S. Bureau of Labor Statistics (BLS)
- **Frequency:** Monthly
+ **Dataset Name:** UNRATE – Civilian Unemployment Rate, Seasonally Adjusted<br>
+ **Source URL:** https://fred.stlouisfed.org/series/UNRATE<br>
+ **Publisher:** U.S. Bureau of Labor Statistics (BLS)<br>
+ **Frequency:** Monthly<br>
  **Date Range:** January 1948 – April 2025
 
 # GenAI usage acknowledgment
@@ -43,15 +43,13 @@ The dataset was obtained from the Federal Reserve Bank of St. Louis (FRED):
   
   Lines: 147 - 160 to determine after how many months did unemployment rate take to recover to pre crisis levels (~ close to overall monthly 
   average unemployment rate)<br>
-  
   Prompt Used: Help me write the code for how many months until the unemployment rate was less than 6% and the first month when it was 
   observed.
 
-  Lines: 220; pd.DateOffset function to calculate the month 10 years before the latest entry in the dataset
-  Prompt USed: I need to calculate rolling 10 year window from April 2025, what function should i use and how?
+  Lines: 220; pd.DateOffset function to calculate the month 10 years before the latest entry in the dataset<br>
+  Prompt Used: I need to calculate rolling 10 year window from April 2025, what function should i use and how?
 
-  Lines: 249 - 251 to visulaise the 2008 crisis on the unemployment trend chart
-  
+  Lines: 249 - 251 to visulaise the 2008 crisis on the unemployment trend chart<br>
   Prompt Used: Here is the baseline code of the visualisation I am working on [code inserted], I want to add the 2008 crisis to it, it 
   should clearly demonstrate the period, write an initial code for that.
 
