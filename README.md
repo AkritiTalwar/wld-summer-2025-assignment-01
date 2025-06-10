@@ -28,10 +28,8 @@ Shell commands to setup the virtual enviornment
 
 # Data source attribution
 
-The dataset was obtained from the Federal Reserve Bank of St. Louis (FRED):
- **Dataset Name:** UNRATE – Civilian Unemployment Rate, Seasonally Adjusted<br>
- **Source URL:** https://fred.stlouisfed.org/series/UNRATE<br>
- **Publisher:** U.S. Bureau of Labor Statistics (BLS)<br>
+ The dataset was obtained as part of the class assignment and is from the Federal Reserve Economic Dataset (FRED):<br>
+ **Dataset Name:** UNRATE.csv<br>
  **Frequency:** Monthly<br>
  **Date Range:** January 1948 – April 2025
 
