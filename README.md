@@ -42,7 +42,8 @@ The dataset was obtained from the Federal Reserve Bank of St. Louis (FRED):
   *"Lines" referenced in unemployment.py file*
   
   Lines: 147 - 160 to determine after how many months did unemployment rate take to recover to pre crisis levels (~ close to overall monthly 
-  average unemployment rate)
+  average unemployment rate)<br>
+  
   Prompt Used: Help me write the code for how many months until the unemployment rate was less than 6% and the first month when it was 
   observed.
 
